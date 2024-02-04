@@ -10,7 +10,7 @@
 
 ### Frontend
 
-1. Navigate to the `frontend` directory.
+1. Navigate to the `front` directory.
 2. Install the required packages:
    ```bash
    npm install
